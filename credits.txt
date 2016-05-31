@@ -1,4 +1,8 @@
-pond bg: https://aomorimori.wordpress.com/tag/aoike/
+pond background: https://aomorimori.wordpress.com/tag/aoike/
+
+splash screen picture: http://i.imgur.com/189tL2E.jpg
+
+victory screen picture: https://www.jfrog.com/wp-content/uploads/2014/06/Frog-After-Diner-HD-1.jpg
 
 fly: http://piq.codeus.net/picture/2325
 
